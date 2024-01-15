@@ -18,13 +18,13 @@ Si los personajes estan a 1 casilla de distancia (o sea, uno al lado del otro) -
 ## Instrucciones de Uso
 1. Para ejecutarlo primeramente se debe installar las siguientes extensiones en visual:
      1. C/C++
-     2. C/C++ Compile Run  n/
-  Para ejecutar el codigo: n/
+     2. C/C++ Compile Run  n\
+  Para ejecutar el codigo: n\
     se puede hacer con una de las siguientes maneras:
     1. Usar F6
     2. Usar el atajo Ctrl + 6
     3. ejecutar en la terminal: ./"Game"
-2. Una vez ejecutado, se iniciara el juego y le pedira al usuario que eliga las dimensiones del tablero dandote 3 opciones n/
+2. Una vez ejecutado, se iniciara el juego y le pedira al usuario que eliga las dimensiones del tablero dandote 3 opciones n\
    a. 3x3
    b. 4x4
    c. 5x5 
