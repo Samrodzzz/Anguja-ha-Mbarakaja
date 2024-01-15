@@ -12,7 +12,7 @@ El juego termina una vez que el tablero se llene ,o sea, cuando ambos jugadores 
 Como se define el ganador? \
 Una vez que el tablero este lleno (los personajes ya recorrieron todo el tablero) se calcula la distancia entre las ultimas posiciones de ambos jugadores.
 
-Si los personajes estan separados a mas de 1 casilla de distancia ---> Gana Anguja (Mbarakaja no puede casarle al no estar cerca)
+Si los personajes estan separados a mas de 1 casilla de distancia ---> Gana Anguja (Mbarakaja no puede casarle al no estar cerca)\
 Si los personajes estan a 1 casilla de distancia (o sea, uno al lado del otro) ---> Gana Mbarakaja (al estar al lado puede cazar a Anguja) 
 
 
