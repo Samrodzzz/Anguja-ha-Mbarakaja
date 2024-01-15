@@ -27,7 +27,7 @@ Si los personajes estan a 1 casilla de distancia (o sea, uno al lado del otro) -
 2. Una vez ejecutado, se iniciara el juego y le pedira al usuario que eliga las dimensiones del tablero dandote 3 opciones \
    a. 3x3 \
    b. 4x4 \
-   c. 5x5 \
+   c. 5x5 
 3. El usuario debe elegir las posiciones iniciales de ambos personajes eligiendo numeros enteros a partir del 1 que representan las posiciones del tablero (De izquierda a derecha y de arriba a abajo)
 
 4. Finalmente, luego de que se terminen los turnos, el juego mostrara el tablero final y quien es el Ganador. 
